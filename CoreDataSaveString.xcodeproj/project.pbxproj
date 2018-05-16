@@ -7,8 +7,6 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		2F053BB720ABAC6800B34A63 /* DetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2F053BB620ABAC6800B34A63 /* DetailViewController.swift */; };
-		2F053BB920ABAD0700B34A63 /* CoreDataService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2F053BB820ABAD0700B34A63 /* CoreDataService.swift */; };
 		2F44E17420A547F500FAC9CC /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2F44E17320A547F500FAC9CC /* AppDelegate.swift */; };
 		2F44E17620A547F500FAC9CC /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2F44E17520A547F500FAC9CC /* ViewController.swift */; };
 		2F44E17920A547F500FAC9CC /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2F44E17720A547F500FAC9CC /* Main.storyboard */; };
@@ -18,8 +16,6 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		2F053BB620ABAC6800B34A63 /* DetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailViewController.swift; sourceTree = "<group>"; };
-		2F053BB820ABAD0700B34A63 /* CoreDataService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CoreDataService.swift; sourceTree = "<group>"; };
 		2F44E17020A547F500FAC9CC /* CoreDataSaveString.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CoreDataSaveString.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		2F44E17320A547F500FAC9CC /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		2F44E17520A547F500FAC9CC /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -62,8 +58,6 @@
 			children = (
 				2F44E17320A547F500FAC9CC /* AppDelegate.swift */,
 				2F44E17520A547F500FAC9CC /* ViewController.swift */,
-				2F053BB620ABAC6800B34A63 /* DetailViewController.swift */,
-				2F053BB820ABAD0700B34A63 /* CoreDataService.swift */,
 				2F44E17720A547F500FAC9CC /* Main.storyboard */,
 				2F44E17D20A547F500FAC9CC /* Assets.xcassets */,
 				2F44E17F20A547F500FAC9CC /* LaunchScreen.storyboard */,
@@ -147,9 +141,7 @@
 			files = (
 				2F44E17C20A547F500FAC9CC /* CoreDataSaveString.xcdatamodeld in Sources */,
 				2F44E17620A547F500FAC9CC /* ViewController.swift in Sources */,
-				2F053BB920ABAD0700B34A63 /* CoreDataService.swift in Sources */,
 				2F44E17420A547F500FAC9CC /* AppDelegate.swift in Sources */,
-				2F053BB720ABAC6800B34A63 /* DetailViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
