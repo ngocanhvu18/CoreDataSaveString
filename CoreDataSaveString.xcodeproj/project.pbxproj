@@ -8,7 +8,6 @@
 
 /* Begin PBXBuildFile section */
 		2F44E17420A547F500FAC9CC /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2F44E17320A547F500FAC9CC /* AppDelegate.swift */; };
-		2F44E17620A547F500FAC9CC /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2F44E17520A547F500FAC9CC /* ViewController.swift */; };
 		2F44E17920A547F500FAC9CC /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2F44E17720A547F500FAC9CC /* Main.storyboard */; };
 		2F44E17C20A547F500FAC9CC /* CoreDataSaveString.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 2F44E17A20A547F500FAC9CC /* CoreDataSaveString.xcdatamodeld */; };
 		2F44E17E20A547F500FAC9CC /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2F44E17D20A547F500FAC9CC /* Assets.xcassets */; };
@@ -18,7 +17,6 @@
 /* Begin PBXFileReference section */
 		2F44E17020A547F500FAC9CC /* CoreDataSaveString.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CoreDataSaveString.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		2F44E17320A547F500FAC9CC /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		2F44E17520A547F500FAC9CC /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		2F44E17820A547F500FAC9CC /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		2F44E17B20A547F500FAC9CC /* CoreDataSaveString.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = CoreDataSaveString.xcdatamodel; sourceTree = "<group>"; };
 		2F44E17D20A547F500FAC9CC /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -57,7 +55,6 @@
 			isa = PBXGroup;
 			children = (
 				2F44E17320A547F500FAC9CC /* AppDelegate.swift */,
-				2F44E17520A547F500FAC9CC /* ViewController.swift */,
 				2F44E17720A547F500FAC9CC /* Main.storyboard */,
 				2F44E17D20A547F500FAC9CC /* Assets.xcassets */,
 				2F44E17F20A547F500FAC9CC /* LaunchScreen.storyboard */,
@@ -140,7 +137,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				2F44E17C20A547F500FAC9CC /* CoreDataSaveString.xcdatamodeld in Sources */,
-				2F44E17620A547F500FAC9CC /* ViewController.swift in Sources */,
 				2F44E17420A547F500FAC9CC /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
